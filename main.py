@@ -13,6 +13,7 @@ while True:
          c = c + 1
      if b==a:
          print("победил")
+         break
      if c == 10:
          print(f"{c}/{10} проиграл")
          break
